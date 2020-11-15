@@ -1,14 +1,3 @@
-# Outtype
-![ci](https://github.com/IvanGenesoto/outtype/workflows/ci/badge.svg)
-
-A competitive typing game for mobile and desktop browsers, stylized in CSS3, rendered with React, and unit tested with Mocha/Chai.
-
-![outtype](https://user-images.githubusercontent.com/26069066/88569651-94df0a80-cfef-11ea-9af4-180fda93abfa.gif)
-
-[outtype.com](https://outtype.com)
-
-[github](https://github.com/IvanGenesoto/outtype)
-
 # Anarch City
 ![ci](https://github.com/IvanGenesoto/anarch-city/workflows/ci/badge.svg)
 
@@ -21,3 +10,15 @@ A massively multiplayer persistent online browser game engine, built from scratc
 [anarch.city](https://anarch.city)
 
 [github](https://github.com/IvanGenesoto/anarch-city)
+
+# Outtype
+
+<!-- ![ci](https://github.com/IvanGenesoto/outtype/workflows/ci/badge.svg) -->
+
+A competitive typing game for mobile and desktop browsers, stylized in CSS3, rendered with React, and unit tested with Mocha/Chai.
+
+![outtype](https://user-images.githubusercontent.com/26069066/88569651-94df0a80-cfef-11ea-9af4-180fda93abfa.gif)
+
+[outtype.com](https://outtype.com)
+
+<!-- [github](https://github.com/IvanGenesoto/outtype) -->
